@@ -1,0 +1,9 @@
+{
+	"name": "Verificationcode",
+	"slug": "verificationcode",
+	"namespace": "Verificationcode",
+	"version": "1.0",
+	"author": " ",
+	"license": "MIT",
+	"description": "This is the description for the Verificationcode module."
+}
